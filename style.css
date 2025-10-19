@@ -1,0 +1,15 @@
+@media(min-width:768px){
+	.container-1{
+	display:flex;
+	justify-content:space-around;
+}
+
+.container-1 div{
+	border:1px, #ccc solid;
+	padding:10px;
+}
+
+.section{
+	/* flex:1; */
+	flex-basis:30%;
+}
